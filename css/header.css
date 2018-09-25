@@ -1,0 +1,11 @@
+.header-menu{
+    float: left;
+    width: 120px;
+    height: 60px;
+}
+
+.head-menu-item{
+    font-size: 16px;
+    margin: 0 15px;
+}
+
